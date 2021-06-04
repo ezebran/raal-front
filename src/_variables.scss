@@ -1,0 +1,137 @@
+// Body
+$body-bg: white;
+$gray-bg: #F7F6F6;
+
+
+// Colors
+
+$primary:#007a9c;
+$seconday:#1494b7;
+$black-txt:#312E2B;
+$gray-txt:#707070;
+
+@mixin row-bt(){
+	display: flex;
+	flex-flow:wrap row;
+	justify-content:space-between;
+	align-items:center;
+}
+
+@mixin row-ct(){
+	display: flex;
+	flex-flow:wrap row;
+	justify-content:center;
+	align-items:center;
+}
+
+@mixin row-st(){
+	display: flex;
+	flex-flow:wrap row;
+	justify-content:flex-start;
+	align-items:center;
+}
+
+@mixin col-ct(){
+	display: flex;
+	flex-flow:wrap column;
+	justify-content:center;
+	align-items:center;
+}
+
+@mixin col-end(){
+	display: flex;
+	flex-flow:wrap column;
+	justify-content:center;
+	align-items: flex-end;
+}
+
+@mixin col-st(){
+	display: flex;
+	flex-flow:wrap column;
+	justify-content:center;
+	align-items: flex-start;
+}
+
+@mixin row-ar(){
+	display: flex;
+	flex-flow:wrap row;
+	justify-content:space-around;
+	align-items:center;
+}
+
+.btn{
+    font-weight: 300;
+    padding: 0.5rem 0.85rem;
+    font-size: 0.8em;
+	transition: all ease-out .3s;
+    border: 0;
+    cursor: pointer;
+	&:focus{
+		outline: none;
+	}
+}
+
+.btn-line{
+	color: white;
+	border: 1px solid white;
+}
+
+.btn-primary{
+	background: $primary;
+    color: white;
+    font-weight: 500;
+    border-radius: 4px;
+	&:hover{
+		background: $seconday;
+	}
+}
+
+.btn-gray{
+	color:#93918F;
+	font-weight: 600;
+	&:hover{
+		background: #6464641a;
+	}
+}
+
+.btnh{
+	padding: 0.5em 3.5em;
+}
+
+.btnh-primary{
+	background: $primary;
+	color: white;
+	font-weight: 600;
+	transition: all .2s ease-out;
+	&:hover{
+		background: #0c88ab;
+	}
+}
+
+.btn-contacto{
+    background: #312E2B;
+    color: white;
+    padding: 0.75em 3em;
+    border-radius: 7px;
+    font-weight: 600;
+	transition: all .3s ease-out;
+	&:hover{
+		background: #3e3b39;
+	}
+}
+
+h1{
+	font-size: 4em;
+}
+
+h2{
+    font-size: 36px;
+}
+
+h3{
+	font-size: 1.2em;
+}
+
+h6{
+	color:#312E2B;
+}

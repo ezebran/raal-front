@@ -1,0 +1,58 @@
+.main-pf{
+  width: 100%;
+}
+
+.embla-pf {
+  position: relative;
+  background-color: #f7f7f7;
+  margin: 3em 0;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.embla__viewport-pf {
+  overflow: hidden;
+  width: 100%;
+}
+
+.embla__viewport-pf.is-draggable {
+  cursor: move;
+  cursor: grab;
+}
+
+.embla__viewport-pf.is-dragging {
+  cursor: grabbing;
+}
+
+.embla__container-pf {
+  display: flex;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -10px;
+}
+
+.embla__slide-pf {
+  position: relative;
+  padding-left: 10px;
+}
+
+.embla__slide__inner-pf {
+  position: relative;
+  overflow: hidden;
+  height: 300px;
+  width: 293px;
+}
+
+.embla__slide__img-pf {
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 50%;
+  width: auto;
+  min-height: 100%;
+  max-width: none;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,488 @@
+{
+    "mercado" : {
+        "cerveza" : {
+            "envase" : [
+                {
+                    "tipo" : "Lata de 473",
+                    "imgUrl" : "url",
+                    "formato" : [
+                        {
+                            "medidas" : "210x125 (190X70)",
+                            "material" : [
+                                {
+                                    "tipo" : "OPP Metalizado",
+                                    "terminacion" : [
+                                        {
+                                            "tipo" : "Barniz brillante",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4381
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3286
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2738
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.1971
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1260
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Barniz mate",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4381
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3286
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2738
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.1971
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1260
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Laminado brillante",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4600
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3450
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2875
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.2070
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1323
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Laminado mate",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4830
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3623
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.3019
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.2174
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1389
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tipo" : "OPP Blanco",
+                                    "terminacion" : [
+                                        {
+                                            "tipo" : "Barniz brillante",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.3810
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.2857
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2381
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.1714
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1095
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Barniz mate",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.3810
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.2857
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2381
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.1714
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1095
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Laminado brillante",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4600
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3450
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2875
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.2070
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1323
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Laminado mate",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4830
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3623
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.3019
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.2174
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1389
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "tipo" : "OPP Transparente",
+                                    "terminacion" : [
+                                        {
+                                            "tipo" : "Barniz brillante",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4381
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3286
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2738
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.1971
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1260
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Barniz mate",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4381
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3286
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2738
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.1971
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1260
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Laminado brillante",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4600
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3450
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.2875
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.2070
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1323
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "tipo" : "Laminado mate",
+                                            "precios" : [
+                                                {
+                                                    "cantidad" : 1000,
+                                                    "base" : 0.4830
+                                                },
+                                                {
+                                                    "cantidad" : 3000,
+                                                    "base" : 0.3623
+                                                },
+                                                {
+                                                    "cantidad" : 5000,
+                                                    "base" : 0.3019
+                                                },
+                                                {
+                                                    "cantidad" : 7000,
+                                                    "base" : 0.2174
+                                                },
+                                                {
+                                                    "cantidad" : 10000,
+                                                    "base" : 0.1389
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tipo" : "Botella 500",
+                    "imgUrl" : "url",
+                    "formato" : [
+                        {
+                            "medidas" : "190X70"
+                        }
+                    ],
+                    "material" : [
+                        {
+                            "tipo" : "OPP Metalizado"
+                        },
+                        {
+                            "tipo" : "OPP Blanco"
+                        },
+                        {
+                            "tipo" : "OPP Transparente"
+                        }
+                    ],
+                    "terminacion" : [
+                        {
+                            "tipo" : "Barniz brillante"
+                        },
+                        {
+                            "tipo" : "Barniz mate"
+                        },
+                        {
+                            "tipo" : "Laminado brillante"
+                        },
+                        {
+                            "tipo" : "Laminado mate"
+                        }
+                    ],
+                    "cantidades" : [
+                        {
+                            "cantidad" : 1000
+                        },
+                        {
+                            "cantidad" : 3000
+                        },
+                        {
+                            "cantidad" : 5000
+                        },
+                        {
+                            "cantidad" : 7000
+                        },
+                        {
+                            "cantidad" : 10000
+                        }
+                    ]
+                },
+                {
+                    "tipo" : "Lata  355",
+                    "imgUrl" : "url",
+                    "formato" : [
+                        {
+                            "medidas" : "205X90"
+                        }
+                    ],
+                    "material" : [
+                        {
+                            "tipo" : "OPP Metalizado"
+                        },
+                        {
+                            "tipo" : "OPP Blanco"
+                        },
+                        {
+                            "tipo" : "OPP Transparente"
+                        }
+                    ],
+                    "terminacion" : [
+                        {
+                            "tipo" : "Barniz brillante"
+                        },
+                        {
+                            "tipo" : "Barniz mate"
+                        },
+                        {
+                            "tipo" : "Laminado brillante"
+                        },
+                        {
+                            "tipo" : "Laminado mate"
+                        }
+                    ],
+                    "cantidades" : [
+                        {
+                            "cantidad" : 1000
+                        },
+                        {
+                            "cantidad" : 3000
+                        },
+                        {
+                            "cantidad" : 5000
+                        },
+                        {
+                            "cantidad" : 7000
+                        },
+                        {
+                            "cantidad" : 10000
+                        }
+                    ]
+                },
+                {
+                    "tipo" : "Botella 355",
+                    "imgUrl" : "url",
+                    "formato" : [
+                        {
+                            "medidas" : "100X70"
+                        }
+                    ],
+                    "material" : [
+                        {
+                            "tipo" : "OPP Metalizado"
+                        },
+                        {
+                            "tipo" : "OPP Blanco"
+                        },
+                        {
+                            "tipo" : "OPP Transparente"
+                        }
+                    ],
+                    "terminacion" : [
+                        {
+                            "tipo" : "Barniz brillante"
+                        },
+                        {
+                            "tipo" : "Barniz mate"
+                        },
+                        {
+                            "tipo" : "Laminado brillante"
+                        },
+                        {
+                            "tipo" : "Laminado mate"
+                        }
+                    ],
+                    "cantidades" : [
+                        {
+                            "cantidad" : 1000
+                        },
+                        {
+                            "cantidad" : 3000
+                        },
+                        {
+                            "cantidad" : 5000
+                        },
+                        {
+                            "cantidad" : 7000
+                        },
+                        {
+                            "cantidad" : 10000
+                        }
+                    ]
+                }
+            ],
+            "precioBase" : {}
+        }
+    }
+}
